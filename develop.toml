@@ -28,7 +28,7 @@ buildFuture = true
   # dateFormat = "2 January 2006"
 
   # Global keywords configuration. Following keywords will be add to every pages
-  keywords = ["Cumulocity IoT", "Internet of things", "analytics", "devices", "connect"]
+  keywords = ["Software AG Cloud", "Cumulocity IoT", "Internet of things", "analytics", "devices", "connect"]
 
   description = "Resources for connecting your machines and devices to the Internet of Things"
   # Display thumbnail image of each post on index pages (false: disabled, true: enabled)
