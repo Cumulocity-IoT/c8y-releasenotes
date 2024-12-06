@@ -17,7 +17,7 @@ A new version of the NetComm router device integration documentation has been ad
 
 ### Installation and operations guides
 
-In addition to the Installation & Operations guides already provided for previous versions, the following new guides are now available through the [Software AG Empower Portal](https://empower.softwareag.com/):
+In addition to the Installation & Operations guides already provided for previous versions, the following new guides are now available through the [Cumulocity software download center](https://download.cumulocity.com/):
 
 * **Connectivity** - Installation & operations guide
 * **DataHub** - Installation & operations guide

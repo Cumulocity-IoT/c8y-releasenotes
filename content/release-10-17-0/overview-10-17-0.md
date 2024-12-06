@@ -20,5 +20,5 @@ Moreover the release notes includes [announcements](/release-10-17-0/announcemen
 You can find the corresponding product documentation for release 10.17.0 at [https://cumulocity.com/guides/10.17.0/welcome/intro-documentation](https://cumulocity.com/guides/10.17.0/welcome/intro-documentation/).
 
 {{< c8y-admon-info >}}
-The *Operations release notes* for the Cumulocity IoT platform are not publicly available. They are provided on the [Software AG Empower Portal](https://documentation.softwareag.com/) (credentials required).
+The *Operations release notes* for the Cumulocity IoT platform are not publicly available. They are provided on the [Cumulocity software download center](https://download.cumulocity.com/) (credentials required).
 {{< /c8y-admon-info >}}
