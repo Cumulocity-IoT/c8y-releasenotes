@@ -7,4 +7,4 @@ Product support for Cumulocity is provided to licensed customers via the [Cumulo
 
 You can refer to Cumulocity´s free [Tech Community](techcommunity.cumulocity.com) pages for information sources such as user forums and FAQs.
 
-See also [Product support](https://cumulocity.com/docs/additional-resources/contacting-support/) in the product documentation.
+See also [Product support](https://cumulocity.com/docs/additional-resources/contacting-support/) in the user documentation.
