@@ -22,7 +22,7 @@ Moreover, you can find the following major enhancements, improvements and fixes 
 
 #### Installation and operations guides
 
-In addition to the Installation & Operations guides already provided for previous versions, the following new guides are now available through the [Software AG Empower Portal](https://empower.softwareag.com/):
+In addition to the Installation & Operations guides already provided for previous versions, the following new guides are now available through the [Cumulocity Download Center](https://download.cumulocity.com/):
 
 * **Cloud Remote Access** - Installation & operations guide
 * **Connectivity** - Installation & operations guide
