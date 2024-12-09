@@ -14,5 +14,5 @@ As a consequence, all links to the user documentation are now redirected to the 
 {{< /c8y-admon-important>}}
 
 {{< c8y-admon-info >}}
-The *Operations release notes* for the Cumulocity IoT platform are not publicly available. They are provided on the [Cumulocity software download center](https://download.cumulocity.com/) (credentials required).
+The *Operations release notes* for the Cumulocity IoT platform are not publicly available. They are provided on the [Cumulocity Download Center](https://download.cumulocity.com/) (credentials required).
 {{< /c8y-admon-info >}}

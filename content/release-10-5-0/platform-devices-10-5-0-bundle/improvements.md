@@ -8,7 +8,7 @@ title: What´s New
 
 #### Installation
 
-Cumulocity now provides an **offline installation** process for the Cumulocity IoT platform. An on-prem Cumulocity IoT cluster can now be installed and operated without requiring internet connectivity. Details can be found in the *Cumulocity IoT Multi-node installation guide* provided through the [Cumulocity software download center](https://download.cumulocity.com/) (credentials required).
+Cumulocity now provides an **offline installation** process for the Cumulocity IoT platform. An on-prem Cumulocity IoT cluster can now be installed and operated without requiring internet connectivity. Details can be found in the *Cumulocity IoT Multi-node installation guide* provided through the [Cumulocity Download Center](https://download.cumulocity.com/) (credentials required).
 
 #### Administration
 
