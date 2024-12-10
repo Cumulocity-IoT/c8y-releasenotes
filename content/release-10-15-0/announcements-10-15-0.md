@@ -261,7 +261,7 @@ This is available from the following web page: https://documentation.softwareag.
 
 Further to the CEL (Esper) deprecation notice in [release 10.5](/release-10-5-0/migration-10-5-0/) and the subsequent announcement of end of support in [release 10.7](/release-10-7-0/announcements-10-7-0/) it has been possible to continue using Esper in an unsupported mode. With effect from release 10.15 the CEL (Esper) functionality has been removed completely and cannot be used anymore.
 
-If you need assistance to migrate your streaming analytics logic from Esper to Apama, please contact [Software AG Global Support](https://cumulocity.com/docs/additional-resources/contacting-support/).
+If you need assistance to migrate your streaming analytics logic from Esper to Apama, please contact [Cumulocity Support](https://cumulocity.com/docs/additional-resources/contacting-support/).
 
 
 ### Machine Learning Workbench

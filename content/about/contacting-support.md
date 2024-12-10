@@ -3,10 +3,8 @@ title: Contacting product support
 layout: bundle
 weight: 30
 ---
-Product support for Cumulocity IoT is provided to licensed customers by the Software AG Global Support team, who you can access on the Software AG Empower web site at https://empower.softwareag.com/. There you will find information about how to contact us via email or phone. Some services on this site may require your Empower login ID and password.
+Product support for Cumulocity is provided to licensed customers via the [Cumulocity Customer Service Desk](https://cumulocity.atlassian.net/servicedesk/customer/). The services on this portal require that you have an account. If you do not yet have one, you can send a request by email to [support@cumulocity.com](support@cumulocity.com).
 
-For further information on the Software AG Empower product support website, see also [Additional resources](https://cumulocity.com/docs/additional-resources/contacting-support/).
+You can refer to Cumulocity´s free [Tech Community](techcommunity.cumulocity.com) pages for information sources such as user forums and FAQs.
 
-If you are using Cumulocity IoT on a trial basis, you can refer to our free TECHCommunity pages at http://techcommunity.softwareag.com/ for information sources such as user forums and FAQs.
-
-If you are interested in acquiring a commercial license please contact us at [https://www.softwareag.com/en_corporate/platform/iot/cumulocity-iot-quickstart.html](https://www.softwareag.com/en_corporate/platform/iot/cumulocity-iot-quickstart.html).
+See also [Product support](https://cumulocity.com/docs/additional-resources/contacting-support/) in the user documentation.
