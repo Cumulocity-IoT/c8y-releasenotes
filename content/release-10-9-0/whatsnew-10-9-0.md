@@ -7,7 +7,7 @@ layout: bundle
 Release 10.9.0 includes the following new features or major feature enhancements.
 
 {{< c8y-admon-info >}}
-To learn what´s new in Cumulocity IoT or in a particular area of the platform we also offer various eLearning delta trainings on the [Software AG learning portal](https://knowledge.softwareag.com/iot_delta) which present the new and enhanced functionality available in a specific product release.
+To learn what´s new in Cumulocity IoT or in a particular area of the platform we also offer various eLearning delta trainings on the [Cumulocity IoT Learning Portal](https://cumulocity.moodlecloud.com/) which present the new and enhanced functionality available in a specific product release.
 {{< /c8y-admon-info >}}
 
 ### Open API specification

@@ -7,7 +7,7 @@ In addition to all enhancements or changes related to the improvements and fixes
 
 ### Installation and operations guides
 
-The Installation and operation guides for the Cumulocity IoT platform are now available through the [Software AG Empower Portal](https://empower.softwareag.com) (credentials required).
+The Installation and operation guides for the Cumulocity IoT platform are now available through the [Cumulocity Download Center](https://download.cumulocity.com/) (credentials required).
 
 ### General: About section
 
